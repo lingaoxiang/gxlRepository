@@ -1,4 +1,4 @@
-package com.boco.eoms.platform.opcollect.controller;
+﻿package com.boco.eoms.platform.opcollect.controller;
 
 import java.net.URL;
 
@@ -10,7 +10,7 @@ import org.apache.axis.client.Service;
 import org.apache.axis.encoding.XMLType;
 
 /**
- * @TODO：
+ * @TODO：这是测试
  * @作者：林高翔
  * @时间：2016-8-5 下午4:32:30
  * @修改时间：
