@@ -10,7 +10,7 @@ import org.apache.axis.client.Service;
 import org.apache.axis.encoding.XMLType;
 
 /**
- * @TODO：这是测试类，用于测试派单
+ * @TODO：这是测试类，用于向EMOS测试派单
  * @作者：林高翔
  * @时间：2016-8-5 下午4:32:30
  * @修改时间：
